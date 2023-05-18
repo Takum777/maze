@@ -1,0 +1,10 @@
+C:\Users\Oksana\Desktop\maze\Maze\Maze-generator\bin\Debug\Maze-generator.exe.config
+C:\Users\Oksana\Desktop\maze\Maze\Maze-generator\bin\Debug\Maze-generator.exe
+C:\Users\Oksana\Desktop\maze\Maze\Maze-generator\bin\Debug\Maze-generator.pdb
+C:\Users\Oksana\Desktop\maze\Maze\Maze-generator\obj\Debug\Maze-generator.csproj.AssemblyReference.cache
+C:\Users\Oksana\Desktop\maze\Maze\Maze-generator\obj\Debug\Maze-generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oksana\Desktop\maze\Maze\Maze-generator\obj\Debug\Maze_generator.Properties.Resources.resources
+C:\Users\Oksana\Desktop\maze\Maze\Maze-generator\obj\Debug\Maze-generator.csproj.GenerateResource.cache
+C:\Users\Oksana\Desktop\maze\Maze\Maze-generator\obj\Debug\Maze-generator.csproj.CoreCompileInputs.cache
+C:\Users\Oksana\Desktop\maze\Maze\Maze-generator\obj\Debug\Maze-generator.exe
+C:\Users\Oksana\Desktop\maze\Maze\Maze-generator\obj\Debug\Maze-generator.pdb
